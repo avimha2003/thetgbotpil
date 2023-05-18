@@ -1,0 +1,20 @@
+Pomodoro Technique - Breaks down study time into 25-minute intervals with short breaks in between.
+Feynman Technique - Explaining complex concepts in simple terms.
+SQ3R - Survey, Question, Read, Recite, Review - a reading comprehension method.
+Cornell Method - Taking notes in an organized manner by dividing the page into sections.
+Mind Mapping - Creating a visual representation of information to aid in memory recall.
+Spaced Repetition - Reviewing material at increasing intervals to improve long-term retention.
+Active Recall - Retrieving information from memory to strengthen neural pathways.
+Interleaving - Switching between different types of tasks to improve retention and recall.
+Elaboration - Creating connections and associations between new information and existing knowledge.
+Chunking - Breaking down large amounts of information into smaller, manageable chunks.
+Distributed Practice - Spacing out study sessions over a longer period of time for better retention.
+Mnemonics - Using creative memory aids to improve retention.
+Retrieval Practice - Practicing recalling information to improve long-term memory.
+Dual Coding - Combining visual and verbal information for improved memory recall.
+Feynman Notebook - Writing and organizing notes in a clear and concise manner.
+Concept Mapping - Creating a diagram that shows the relationship between different concepts.
+Analogies - Using familiar concepts or ideas to explain new or difficult information.
+Reflection - Taking the time to reflect on what has been learned and how to apply it.
+Peer Teaching - Explaining concepts to someone else to improve understanding and recall.
+Learning by Doing - Applying new information in a practical setting to improve retention and understanding.
